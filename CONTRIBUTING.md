@@ -39,7 +39,7 @@ An Issue can be closed by any member of [the repository maintainers' team](https
 1. Issues may be closed because they are implemented. Following the successful merging of a pull request addressing an Issue, it will be closed.
 
 ## How to Contribute
-While we welcome requests for changes (in the form of Issues), we absolutely love ready solutions (in the form of Pull Requests). The best requests are the ones with a Pull Request to go along with it.
+While we welcome requests for changes (in the form of Issues), we absolutely love ready solutions (in the form of Pull Requests). The best requests are the ones with Pull Requests to go along with them.
 
 Contributions can be made by anyone using the standard [GitHub Fork and Pull model](https://help.github.com/articles/about-pull-requests). When making a pull request, keep a few things in mind.
 1. Always explicitly connect a pull request to an Issue (as indiciated by the Issue template).
