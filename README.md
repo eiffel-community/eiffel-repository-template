@@ -18,7 +18,7 @@
 ![Eiffel Community Repository Template](./images/logo.png)
 
 # Eiffel Community Repository Template
-This repository serves as a template for [Eiffel Community](https://eiffel-community.github.io) repositories, in order to promote similar process and handling across the community. To create a new repo, first copy the contents of this repo. Then follow the steps in (repo-checklist.md)[./repo-checklist.md] before deleting it.
+This repository serves as a template for [Eiffel Community](https://eiffel-community.github.io) repositories, in order to promote similar process and handling across the community. To create a new repo, first copy the contents of this repo. Then follow the steps in [repo-checklist.md](./repo-checklist.md) before deleting it.
 
 The contents of this repository are licensed under the [Apache License 2.0](./LICENSE).
 
