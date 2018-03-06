@@ -15,7 +15,7 @@
    limitations under the License.
 --->
 
-<img src="./images/logo.png" alt="Eiffel Community Repository Template" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/>
+<img src="./images/logo.png" alt="Eiffel Community Repository Template" style="display: block; margin-left: auto; margin-right: auto; width: 10%;"/>
 
 # Eiffel Community Repository Template
 This repository serves as a template for [Eiffel Community](https://eiffel-community.github.io) repositories, in order to promote similar process and handling across the community. To create a new repo, first copy the contents of this repo. Then follow the steps in [repo-checklist.md](./repo-checklist.md) before deleting it.
