@@ -19,7 +19,7 @@
 After copying the contents of this repo into the new repo-to-be, follow the below steps:
 
 1. Update README.md.
-   1. Replace the logo and the alt text of the logo image element.
+   1. Replace the logo and the alt text of the logo image element. You can find logo template here:  https://github.com/eiffel-community/community/blob/master/Resources/eiffel-community-logos.xcf
    1. Change the first heading and the description of the repository.
    1. Keep the rest of the README.md intact (license notice, links to contribution guidelines et cetera).
 1. Create a repo-name-maintainers team in the eiffel-community organization.
