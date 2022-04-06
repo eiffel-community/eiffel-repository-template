@@ -28,5 +28,5 @@ After copying the contents of this repo into the new repo-to-be, follow the belo
    1. Give the team write access to the new repository.
 1. Create a maintainers' mailing list. There are no requirements on mailing list providers, but it needs to be invite only, readable by members only, but accept mails from non-members. [Google Groups](http://groups.google.com/) can easily set up such mailing lists.
    1. Add all [TC members](https://github.com/eiffel-community/community/blob/master/GOVERNANCE.md#technical-committee-members) as owners in this mailing list.
-1. Update https://github.com/eiffel-community/community/blob/master/CONTACT.md with a new line for this repository.
+1. Update https://github.com/eiffel-community/community/blob/master/PROJECTS.md with a new line for this repository.
 1. Update CODEOWNERS file with the correct maintainer list.
